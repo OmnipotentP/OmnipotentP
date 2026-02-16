@@ -36,8 +36,8 @@ Here is a selection of my most significant work, demonstrating skills from **Low
 ### 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=OmnipotentP&show_icons=true&theme=dracula&hide_border=true&cache_seconds=0" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmnipotentP&layout=compact&theme=dracula&hide_border=true&cache_seconds=0" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=OmnipotentP&show_icons=true&theme=dracula&hide_border=true" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmnipotentP&layout=compact&theme=dracula&hide_border=true" height="160px"/>
 </div>
 
 ---
