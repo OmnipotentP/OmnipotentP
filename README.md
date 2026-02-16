@@ -28,7 +28,7 @@ Here is a selection of my most significant work, demonstrating skills from **Low
 | 🎮 **[Computer Graphics Engine & Game](https://github.com/OmnipotentP/Computer-Graphics-Projects)** | A custom 3D game engine built from scratch in C++/OpenGL and a full game implementation in Unity. | `OpenGL` `C++` `Unity` `C#` |
 | 🧠 **[Computational Intelligence Algorithms](https://github.com/OmnipotentP/Computational-Intelligence-Java_Neural-Networks)** | Implementation of **MLP Neural Networks** (Backpropagation) and **K-Means** clustering from scratch with custom GUIs. | `Java` `Swing` `Math` |
 | 🔍 **[News Search Engine & RAG](https://github.com/OmnipotentP/Information-Retrieval-News-Search)** | A Full-stack search system combining a **Lucene/Java** backend and a **Python/LLM (RAG)** question-answering app. | `Java` `Lucene` `Python` `LangChain` |
-| 🛡️ **[Systems Security Exploits](https://github.com/OmnipotentP/Computer-Security-Labs)** | Cybersecurity labs demonstrating **Stack-based Buffer Overflows** and **SSH Man-in-the-Middle** attacks. | `Perl` `GDB` `Wireshark` `Metasploit` |
+| 🛡️ **[Systems Security Exploits](https://github.com/OmnipotentP/Security-of-Computer-Systems-and-Networks-Labs)** | Cybersecurity labs demonstrating **Stack-based Buffer Overflows** and **SSH Man-in-the-Middle** attacks. | `Perl` `GDB` `Wireshark` `Metasploit` |
 | 📊 **[Systems Simulation & Modeling](https://github.com/OmnipotentP/Simulation-Modeling-Systems)** | Performance analysis of Database Virtualization (Docker) and Discrete Event Simulation of clusters. | `Python` `Docker` `Ciw` `Statistics` |
 
 ---
