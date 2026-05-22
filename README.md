@@ -15,6 +15,8 @@ My academic focus includes **Systems Engineering**, **Artificial Intelligence**,
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -61,6 +63,7 @@ Here is a selection of my most significant work, demonstrating skills from **Low
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🎮 **[Computer Graphics Engine & Game](https://github.com/panagiotispar/Computer-Graphics-Projects)** | A custom 3D game engine built from scratch in C++/OpenGL and a full game implementation in Unity. | `OpenGL` `C++` `Unity` `C#` |
+| 🦾 **[Machine Learning & Pattern Recognition](https://github.com/panagiotispar/Machine-Learning-Projects)** | Implementation of end-to-end ML pipelines, featuring a **Sign Language Image Classification** system. Includes data preprocessing, feature extraction, and model evaluation. | `Python` `Scikit-Learn` `Jupyter` `Pandas` |
 | 🧠 **[Computational Intelligence Algorithms](https://github.com/panagiotispar/Computational-Intelligence-Java_Neural-Networks)** | Implementation of **MLP Neural Networks** (Backpropagation) and **K-Means** clustering from scratch with custom GUIs. | `Java` `Swing` `Math` |
 | 🔍 **[News Search Engine & RAG](https://github.com/panagiotispar/Information-Retrieval-News-Search)** | A Full-stack search system combining a **Lucene/Java** backend and a **Python/LLM (RAG)** question-answering app. | `Java` `Lucene` `Python` `LangChain` |
 | 🛡️ **[Systems Security Exploits](https://github.com/panagiotispar/Security-of-Computer-Systems-and-Networks-Labs)** | Cybersecurity labs demonstrating **Stack-based Buffer Overflows** and **SSH Man-in-the-Middle** attacks. | `Perl` `GDB` `Wireshark` `Metasploit` |
